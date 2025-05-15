@@ -1,1 +1,2 @@
 # Smart-Blind-Stick
+**Smart Blind Stick** is an assistive device designed to help visually impaired individuals navigate safely. The stick is equipped with ultrasonic sensors to detect obstacles in the path and alert the user through vibrations or buzzer sounds. It can also include features like GPS for location tracking and a panic button for emergency alerts. The system runs on a microcontroller like Arduino, ensuring real-time obstacle detection and user feedback.
